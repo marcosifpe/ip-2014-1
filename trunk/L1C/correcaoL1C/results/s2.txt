@@ -1,0 +1,5 @@
+Equilatero
+Isosceles
+Escaleno
+Triangulo inexistente
+Escaleno

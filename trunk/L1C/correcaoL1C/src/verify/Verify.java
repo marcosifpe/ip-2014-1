@@ -13,6 +13,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.StringTokenizer;
 
 import org.junit.BeforeClass;
 import org.junit.FixMethodOrder;
@@ -145,6 +146,17 @@ public class Verify {
 				}
 				
 				oldLine = line;
+				
+				String[] partes1 = line.split("=");
+				int resultado = new Integer(partes1[0].trim());
+				StringTokenizer stringTokenizer = new StringTokenizer(partes1[1], "+");
+				int soma = 0;
+
+				while(stringTokenizer.hasMoreTokens()) {
+					soma += new Integer(stringTokenizer.nextToken().trim());
+				}
+				
+				assertEquals(resultado, soma);
 			}
 			
 			

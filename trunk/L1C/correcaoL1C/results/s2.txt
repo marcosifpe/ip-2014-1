@@ -1,5 +1,4 @@
-Equilatero
-Isosceles
-Escaleno
-Triangulo inexistente
-Escaleno
+0
+6
+64
+0

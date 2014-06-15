@@ -139,10 +139,7 @@ public class Verify {
 			
 			for (Iterator<String> it = lines.iterator(); it.hasNext();) {
 				String line = it.next();
-				assertEquals(line.charAt(0), line.charAt(6));
-				assertEquals(line.charAt(1), line.charAt(5));
-				assertEquals(line.charAt(2), line.charAt(4));
-				
+							
 				if (oldLine != null && oldLine.equals(line)) {
 					fail("Linhas iguais em geração aleatória");
 				}

@@ -1,5 +1,5 @@
-Vencendor: X
-Segundo Turno: S
+Vencedor: X
+Segundo turno: S
 X: 48 24.00% 40.34%
 Y: 34 17.00% 28.57%
 Z: 37 18.50% 31.09%

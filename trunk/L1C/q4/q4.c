@@ -20,7 +20,7 @@ int main(int argc, char **argv) {
 		printf("%.0lf:%d\n", 16.0/9.0*i, i);
 	} else {
 		printf("%d:%.0lf\n", i, 3.0/4.0*i);
-		printf("%d:%.0lf\n", i, 16.0/9.0*i);
+		printf("%d:%.0lf\n", i, 9.0/16.0*i);
 
 	}
 

@@ -1,3 +1,6 @@
-2
+5
 escreva uma funcao recursiva
 para inverte um texto
+os dias parecem seculos
+quando a gente anda em
+circulos

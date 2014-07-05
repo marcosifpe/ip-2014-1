@@ -1,4 +1,7 @@
-3
+6
 cif recife
 abc dcbabdabc
 verde azul
+santacruz santacruzcampeao
+amarelo elo
+pi paralelepipedo

@@ -1,3 +1,6 @@
 cif eh substring de recife
 abc eh substring de dcbabdabc
 verde nao eh substring de azul
+santacruz eh substring de santacruzcampeao
+amarelo nao eh substring de elo
+pi eh substring de paralelepipedo

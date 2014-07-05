@@ -1,0 +1,3 @@
+cif eh substring de recife
+abc eh substring de dcbabdabc
+verde nao eh substring de azul
